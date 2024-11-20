@@ -3,7 +3,7 @@ date: 2024-11-20
 layout: post
 title: Chi è Gabriel Jones?
 subtitle: 'Un viaggio tra passione per la tecnologia e il sogno di diventare un influencer'
-description: >- 
+description: >- chi è gabriel
 image: >- https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 optimized_image: >- https://gjdev.it/assets/images/Forme%20Colorate%20Intestazione%20Banner.png
 category: blog
